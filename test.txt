@@ -1,2 +1,3 @@
 test
 edit int local
+third
